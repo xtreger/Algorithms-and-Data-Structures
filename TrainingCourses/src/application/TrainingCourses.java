@@ -1,7 +1,5 @@
 /*
     * File name: 			 TrainingCourses.java      
-    * Author:				 Mihai Carare
-    * Description of class: Represents a node in a linked list using generics.
     */
 package application;
 
